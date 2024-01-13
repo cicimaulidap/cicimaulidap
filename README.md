@@ -20,3 +20,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.public.tableu.com" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" alt="tableu public" width="100" height="30"/> </a> <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354011/looker.svg" width="40" height="30"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cicimaulidap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cicimaulidap&icon=0&color=4)](https://visitcount.itsvg.in)
+
